@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.mian{
+    background-color:rgb(49, 47, 47);
+    padding: 20px;
+    border-radius: 10px;
+    align-items: center;
+}
+.butt1{
+    background-color:blue;
+    border-style: none;
+    width: 80px;
+    height: 80px;
+    font-size: xx-large;
+    border-radius: 10px;
+    padding: 30px;
+    
+}
+#contador{
+    font-size: 90px;
+    padding: 30px;
+    text-align: center;  
+}
+.zerar1{
+   width: 100%;
+   height: 50px;
+   background-color: blueviolet;
+   font-family: cursive;
+   border-radius: 10px;
+   border-style: none;
+   position: relative;
+   top: 10px;
+}
